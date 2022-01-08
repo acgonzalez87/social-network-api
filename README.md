@@ -25,6 +25,9 @@ Run 'npm install' for the dependencies and npm init.
 
 Use npm start to start the server, use the app Insomnia to use the different routes.
 
+<img src="https://i.imgur.com/dgDoeEr.png" 
+alt="insomnia image" width="240" height="180" border="10" />
+
 ## [Contributing](#table-of-contents)
 
 Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
